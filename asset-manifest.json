@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Forum-Discussion/static/css/main.31d6cfe0.css",
+    "main.js": "/Forum-Discussion/static/js/main.cb54bd6f.js",
+    "index.html": "/Forum-Discussion/index.html",
+    "main.cb54bd6f.js.map": "/Forum-Discussion/static/js/main.cb54bd6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cb54bd6f.js"
+  ]
+}
