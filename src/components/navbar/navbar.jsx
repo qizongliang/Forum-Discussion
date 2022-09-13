@@ -26,6 +26,7 @@ const Navbar = () => {
           <a href="#" className="nav_brand">
             Logo
           </a>
+
           <ul className={collapse}>
             {navItems.map((item) => (
               <li key={item.id} className="nav_item">
@@ -35,6 +36,7 @@ const Navbar = () => {
               </li>
             ))}
           </ul>
+
           <div className={toggleIcon} onClick={onToggle}>
             <div className="line_1"></div>
             <div className="line_2"></div>
